@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tabela-fipe/static/css/main.f2bf7798.css",
+    "main.js": "/tabela-fipe/static/js/main.35a98aa5.js",
+    "static/js/488.f25a1d44.chunk.js": "/tabela-fipe/static/js/488.f25a1d44.chunk.js",
+    "static/media/FotoGolf2.jpg": "/tabela-fipe/static/media/FotoGolf2.36973ddf4de0f89d949a.jpg",
+    "index.html": "/tabela-fipe/index.html",
+    "main.f2bf7798.css.map": "/tabela-fipe/static/css/main.f2bf7798.css.map",
+    "main.35a98aa5.js.map": "/tabela-fipe/static/js/main.35a98aa5.js.map",
+    "488.f25a1d44.chunk.js.map": "/tabela-fipe/static/js/488.f25a1d44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2bf7798.css",
+    "static/js/main.35a98aa5.js"
+  ]
+}
