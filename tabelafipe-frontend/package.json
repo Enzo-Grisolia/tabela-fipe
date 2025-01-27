@@ -1,5 +1,6 @@
 {
   "name": "tabelafipe-frontend",
+  "homepage": "https://enzo-grisolia.github.io/tabela-fipe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
