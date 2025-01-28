@@ -78,7 +78,7 @@ const App = () => {
           <ul>
             {precos.map((preco, index) => (
               <li key={index}>
-                Ano: {preco.AnoModelo},  Valor: {preco.Valor}
+                Ano: {preco.AnoModelo}, Valor: {preco.Valor}
               </li>
             ))}
           </ul>
